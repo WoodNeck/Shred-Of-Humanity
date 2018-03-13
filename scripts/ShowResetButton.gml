@@ -1,0 +1,1 @@
+resetBtn.visible = true;
